@@ -1,1 +1,1 @@
-# symspaces-ic
+# Image Classification on Hyperbolic Spaces
